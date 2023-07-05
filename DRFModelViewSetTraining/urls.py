@@ -13,5 +13,6 @@ urlpatterns = [
     path('api/v1/', include('ModelViewSet6.ulrs')),
     path('api/v1/', include('ModelViewSet7.urls')),
     path('api/v1/', include('ModelViewSet8.urls')),
+    path('api/v1/', include('ModelViewSet9.urls')),
 ]
 
