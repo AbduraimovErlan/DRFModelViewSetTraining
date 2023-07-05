@@ -44,7 +44,8 @@ INSTALLED_APPS = [
     'ModelViewSet4',
     'ModelViewSet5',
     'ModelViewSet6',
-    'ModelViewSet7'
+    'ModelViewSet7',
+    'ModelViewSet8',
 ]
 
 MIDDLEWARE = [
