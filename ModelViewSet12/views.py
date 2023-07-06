@@ -9,3 +9,9 @@ class ModelViewSetBook12(viewsets.ModelViewSet):
     queryset = Book12.objects.all()
     serializer_class = SerializersBook12
     lookup_field = 'id'
+
+
+
+"""
+10.47
+"""
